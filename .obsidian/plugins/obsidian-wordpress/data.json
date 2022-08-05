@@ -1,0 +1,8 @@
+{
+  "apiType": "xml-rpc",
+  "endpoint": "https://whoisdsmith.ctrlaltback.space/",
+  "saveUserName": true,
+  "showRibbonIcon": true,
+  "defaultPostStatus": "publish",
+  "userName": "whoisdsmith"
+}

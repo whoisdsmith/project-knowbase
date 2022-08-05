@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "defaultNote": "Dustin Michael Smith",
+  "workspace": "Home",
+  "workspaceEnabled": false,
+  "hasRibbonIcon": true,
+  "openMode": "Replace all open notes",
+  "view": "Default view",
+  "refreshDataview": false
+}

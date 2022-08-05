@@ -1,0 +1,12 @@
+{
+  "sidebarCommands": [
+    {
+      "id": "digitalgarden:publish-multiple-notes",
+      "name": "Digital Garden: Publish Multiple Notes",
+      "icon": "logo-crystal"
+    }
+  ],
+  "hiddenCommands": [
+    "Open Markdown importer"
+  ]
+}

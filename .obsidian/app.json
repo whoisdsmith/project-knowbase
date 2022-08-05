@@ -1,0 +1,29 @@
+{
+  "communityPluginSortOrder": "release",
+  "communityThemeSortOrder": "download",
+  "legacyEditor": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "mobileToolbarCommands": [
+    "editor:paste",
+    "editor:move-caret-left",
+    "editor:move-caret-right",
+    "editor:indent-list",
+    "editor:set-heading",
+    "editor:insert-wikilink",
+    "editor:toggle-bullet-list",
+    "editor:insert-embed",
+    "editor:toggle-code",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:toggle-bold",
+    "obsidian-find-and-replace-in-selection:find-and-replace-in-selection",
+    "editor:undo",
+    "editor:copy",
+    "digitalgarden:publish-note",
+    "editor:configure-toolbar",
+    "editor:toggle-keyboard"
+  ],
+  "livePreview": false,
+  "showUnsupportedFiles": true
+}

@@ -1,0 +1,15 @@
+{
+  "menuCommands": [
+    {
+      "name": "Yaml Manager: bulk update",
+      "id": "obsidian-state-switcher:bulkUpdate",
+      "icon": "activity"
+    },
+    {
+      "name": "Timelines: Render Timeline",
+      "id": "obsidian-timelines:render-timeline",
+      "icon": "anchor"
+    }
+  ],
+  "hideTitles": []
+}

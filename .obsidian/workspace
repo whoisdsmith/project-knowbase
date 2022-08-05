@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "7f62eea1b2d62ada",
+    "type": "split",
+    "children": [
+      {
+        "id": "335f8ef183d16a56",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Medium Articles/The Most Powerful Terminal on macOS.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a806b1715312cfd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a67b5fe57642f91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc7777572e4380c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e5ab5bf5c4791e23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5
+  },
+  "right": {
+    "id": "b3911b038f80f7f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b376dcc3565392f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab5758a069436835",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Medium Articles/The Most Powerful Terminal on macOS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7e3d49306a25031",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Medium Articles/The Most Powerful Terminal on macOS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23bd764f3b3ee444",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Medium Articles/The Most Powerful Terminal on macOS.md"
+              }
+            }
+          },
+          {
+            "id": "ba27300bdb9b2585",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f374e54cdd82334",
+            "type": "leaf",
+            "state": {
+              "type": "search-result-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "eee1cd46332e5aa9",
+            "type": "leaf",
+            "state": {
+              "type": "tlfItemView",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "eee1cd46332e5aa9",
+  "lastOpenFiles": [
+    "Medium Articles/TryHackMeThe find command.md",
+    "Programming/Awesome UNIX.md",
+    "Medium Articles/Top CLI tools for Software Developer’s Productivity on Mac in 2022.md",
+    "Medium Articles/18 useful Terminal commands for Mac users  Medium  Medium.md",
+    "Medium Articles/A good terminal experience with iTerm2 and ZSH on macOS.md",
+    "Medium Articles/A crash course in Z-shell customisation.md",
+    "Medium Articles/files/Customize you zsh mac terminal/12TVeF8PGko5yeAIm1Hn4sQ.png",
+    "Medium Articles/Dotfiles Bare Git.md",
+    "Medium Articles/This Will Make You a Command-Line Ninja.md",
+    "Medium Articles/The Most Powerful Terminal on macOS.md"
+  ]
+}

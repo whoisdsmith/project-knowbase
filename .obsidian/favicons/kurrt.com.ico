@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<head>
+<title>Farewell</title>
+</head>
+<body style="text-align:center;font-family:Arial, sans-serif;height:100vh;position:relative;color:#444;">
+  <div style="margin:0;position:absolute;top:50%;-ms-transform:translateY(-50%);transform:translateY(-60%);width:100vw;">
+    <h1>Kurrt.com has been taken offline.</h1>
+    <p style="margin-bottom:15vh;color:#777">
+      Thank you all for the support over the years.<br>
+      All my tweaks can now be accessed for free but are no longer maintained.<br>
+      To access a tweak of mine on a compatible device, hit restore purchase as if you have previously paid. All DRM has been disabled externally and keys are automatically generated on this request.
+    </p>
+  </div>
+</body>

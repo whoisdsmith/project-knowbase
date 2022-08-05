@@ -1,0 +1,74 @@
+{
+  "aestheticStyle": "glass",
+  "menuCommands": [
+    {
+      "id": "obsidian-regex-replace:obsidian-regex-replace",
+      "name": "Regex Find/Replace: Find and Replace using regular expressions",
+      "icon": "left-arrow-with-tail"
+    },
+    {
+      "id": "note-refactor-obsidian:app:split-note-by-heading-h1",
+      "name": "Note Refactor: Split note by headings - H1",
+      "icon": "box-glyph"
+    },
+    {
+      "id": "obsidian-linter:lint-file",
+      "name": "Linter: Lint the current file",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod",
+            "Alt"
+          ],
+          "key": "l"
+        }
+      ],
+      "icon": "lines-of-text"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-bold",
+      "name": "cMenu: Toggle bold",
+      "icon": "bold-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-code",
+      "name": "cMenu: Toggle code",
+      "icon": "code-glyph"
+    },
+    {
+      "id": "cmenu-plugin:codeblock",
+      "name": "cMenu: Toggle codeblock",
+      "icon": "codeblock-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-blockquote",
+      "name": "cMenu: Toggle blockquote",
+      "icon": "quote-glyph"
+    },
+    {
+      "id": "editor:insert-wikilink",
+      "name": "Add internal link",
+      "icon": "bracket-glyph"
+    },
+    {
+      "id": "note-refactor-obsidian:app:split-note-by-heading-h3",
+      "name": "Note Refactor: Split note by headings - H3",
+      "icon": "bracket-glyph"
+    },
+    {
+      "id": "note-refactor-obsidian:app:split-note-by-heading-h2",
+      "name": "Note Refactor: Split note by headings - H2",
+      "icon": "bullet-list"
+    },
+    {
+      "id": "note-refactor-obsidian:app:split-note-by-heading-h1",
+      "name": "Note Refactor: Split note by headings - H1",
+      "icon": "heading-glyph"
+    }
+  ],
+  "appendMethod": "workspace",
+  "shouldShowMenuOnSelect": false,
+  "cMenuVisibility": false,
+  "cMenuBottomValue": 4.25,
+  "cMenuNumRows": 8
+}

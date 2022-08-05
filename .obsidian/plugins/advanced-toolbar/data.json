@@ -1,0 +1,21 @@
+{
+  "rowHeight": 48,
+  "rowCount": 1,
+  "spacing": 0,
+  "buttonWidth": 48,
+  "columnLayout": false,
+  "alwaysShowToolbar": true,
+  "mappedIcons": [
+    {
+      "commandID": "obsidian-find-and-replace-in-selection:find-and-replace-in-selection",
+      "iconID": "magnifying-glass"
+    },
+    {
+      "commandID": "note-refactor-obsidian:app:split-note-by-heading-h2",
+      "iconID": "heading-glyph"
+    }
+  ],
+  "debugging": false,
+  "allowStylingOfAllActions": false,
+  "tooltips": false
+}

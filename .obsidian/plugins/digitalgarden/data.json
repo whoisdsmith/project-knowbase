@@ -1,0 +1,14 @@
+{
+  "githubRepo": "project_timeline",
+  "githubToken": "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",
+  "githubUserName": "whoisdsmith",
+  "gardenBaseUrl": "project-timeliner.netlify.app",
+  "prHistory": [],
+  "theme": "{\"name\":\"Prism\",\"author\":\"Damian Korcz\",\"repo\":\"damiankorcz/Prism-Theme\",\"screenshot\":\"assets/screenshots/Community Themes Screenshot.png\",\"modes\":[\"dark\",\"light\"],\"branch\":\"main\",\"cssUrl\":\"https://raw.githubusercontent.com/damiankorcz/Prism-Theme/main/obsidian.css\"}",
+  "baseTheme": "light",
+  "faviconPath": "",
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false
+  }
+}

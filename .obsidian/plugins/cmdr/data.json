@@ -1,0 +1,81 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "convert-url-to-iframe:url-to-iframe",
+      "icon": "baseline",
+      "name": "Convert url to preview (iframe): URL to Preview/Iframe",
+      "mode": "any"
+    },
+    {
+      "id": "metadata-menu:field_options",
+      "icon": "battery-low",
+      "name": "Metadata Menu: field options",
+      "mode": "any"
+    },
+    {
+      "id": "metaedit:metaEditRun",
+      "icon": "album",
+      "name": "MetaEdit: Run MetaEdit",
+      "mode": "any"
+    },
+    {
+      "id": "metadata-menu:fileClassAttr_options",
+      "icon": "activity",
+      "name": "Metadata Menu: fileClass attributes options",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-admonition:insert-callout",
+      "icon": "at-sign",
+      "name": "Admonition: Insert Callout",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [
+    {
+      "id": "obsidian-related-notes-finder:show-possible-links",
+      "icon": "brush",
+      "name": "Related Notes Finder: Show Possible Links",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [
+    {
+      "id": "obsidian-state-switcher:bulkUpdate",
+      "icon": "bus",
+      "name": "Yaml Manager: bulk update",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-linter:lint-all-files",
+      "icon": "lint-vault",
+      "name": "Linter: Lint all files in the vault",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian42-text-transporter:obsidian42-text-transporter-combinedCommands",
+      "icon": "TextTransporter",
+      "name": "Obsidian42 - Text Transporter: All Commands List",
+      "mode": "any"
+    },
+    {
+      "id": "cmenu-plugin:hide-show-menu",
+      "icon": "cMenu",
+      "name": "cMenu: Hide/show ",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8
+}
