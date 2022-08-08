@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Medium Articles/The Most Powerful Terminal on macOS.md",
+            "file": "Raindrop-Devmarks/Automation.md",
             "mode": "preview",
             "source": true
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medium Articles/The Most Powerful Terminal on macOS.md",
+                "file": "Raindrop-Devmarks/Automation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Medium Articles/The Most Powerful Terminal on macOS.md",
+                "file": "Raindrop-Devmarks/Automation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Medium Articles/The Most Powerful Terminal on macOS.md"
+                "file": "Raindrop-Devmarks/Automation.md"
               }
             }
           },
@@ -111,14 +111,6 @@
             }
           },
           {
-            "id": "2f374e54cdd82334",
-            "type": "leaf",
-            "state": {
-              "type": "search-result-view",
-              "state": {}
-            }
-          },
-          {
             "id": "eee1cd46332e5aa9",
             "type": "leaf",
             "state": {
@@ -127,23 +119,24 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "eee1cd46332e5aa9",
+  "active": "335f8ef183d16a56",
   "lastOpenFiles": [
+    "Raindrop-Devmarks/Audio.md",
+    "Raindrop-Devmarks/Apps.md",
+    "Raindrop-Devmarks/APIs.md",
     "Medium Articles/TryHackMeThe find command.md",
     "Programming/Awesome UNIX.md",
     "Medium Articles/Top CLI tools for Software Developer’s Productivity on Mac in 2022.md",
     "Medium Articles/18 useful Terminal commands for Mac users  Medium  Medium.md",
     "Medium Articles/A good terminal experience with iTerm2 and ZSH on macOS.md",
     "Medium Articles/A crash course in Z-shell customisation.md",
-    "Medium Articles/files/Customize you zsh mac terminal/12TVeF8PGko5yeAIm1Hn4sQ.png",
-    "Medium Articles/Dotfiles Bare Git.md",
-    "Medium Articles/This Will Make You a Command-Line Ninja.md",
-    "Medium Articles/The Most Powerful Terminal on macOS.md"
+    "Medium Articles/files/Customize you zsh mac terminal/12TVeF8PGko5yeAIm1Hn4sQ.png"
   ]
 }

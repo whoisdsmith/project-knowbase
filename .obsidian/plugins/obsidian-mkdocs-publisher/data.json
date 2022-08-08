@@ -1,5 +1,5 @@
 {
-  "githubRepo": "project-obsidian-vault",
+  "githubRepo": "project-knowbase",
   "githubName": "whoisdsmith",
   "GhToken": "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",
   "shareKey": "share",
@@ -22,5 +22,9 @@
   "embedNotes": false,
   "copyLink": true,
   "mainLink": "",
-  "linkRemover": ""
+  "linkRemover": "",
+  "hardBreak": false,
+  "logNotice": false,
+  "convertDataview": true,
+  "useFrontmatterTitle": false
 }

@@ -1961,4 +1961,4 @@ The list of authors can be found in [AUTHORS.md](AUTHORS.md).
 
 ## License
 
-This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.
+This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](Programming/DevOps-Guide/Container-orchestration/Docker/node/node_modules/qs/LICENSE) License.
