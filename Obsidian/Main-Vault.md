@@ -1,6 +1,6 @@
 ![[Obsidian-Github-Cover.jpeg]]
 
-## [[Automation]]
+## [[Automation/Automation]]
 
 ![[Automation-Banner-Small.jpeg]]
 

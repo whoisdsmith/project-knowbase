@@ -1,0 +1,59 @@
+ appConfig:
+  theme: material-dark
+  startingView: default
+  layout: auto
+  iconSize: small
+  language: en
+  
+pageInfo:
+  title: Dashy
+  description: Project-Dashboard
+  navLinks:
+    - title: GitHub
+      path: https://github.com/whoisdsmith
+    - title: Project-Endeavours
+      path: https://github.com/Project-Endeavours
+  footerText: Project-Dashboard
+sections:
+  - name: Main
+    icon: fas fa-at
+    items:
+      - title: Github
+        description: Dev Page
+        icon: favicon
+        url: https://github.com/whoisdsmith
+        target: newtab
+        id: 0_389_github
+      - title: Bluehost Login
+        description: ''
+        icon: favicon
+        url: https://my.bluehost.com/cgi-bin/cplogin
+        target: newtab
+        id: 1_389_bluehostlogin
+      - title: cPanel Login
+        icon: favicon
+        url: >-
+          https://cpanel-box5752.bluehost.com/cpsess5227051848/frontend/bluehost/ftp/accounts.html?login=1&post_login=91059949000235&webpro=0
+        target: newtab
+        id: 2_389_cpanellogin
+      - title: Cloud9
+        icon: favicon
+        url: https://cloud9.ctrlaltback.space/index.php/apps/dashboard
+        target: newtab
+        id: 3_389_cloud
+      - title: MTHRFCKR
+        icon: favicon
+        url: https://whoisdsmith.ctrlaltback.space/
+        target: newtab
+        id: 4_389_mthrfckr
+      - title: Alternative-To
+        icon: favicon
+        url: https://alternativeto.net/
+        target: newtab
+        id: 5_389_alternativeto
+    displayData:
+      sortBy: default
+      rows: 1
+      cols: 1
+      collapsed: false
+      hideForGuests: false

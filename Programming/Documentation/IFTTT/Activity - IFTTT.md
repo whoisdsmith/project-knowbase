@@ -112,7 +112,7 @@
     
     tags
     
- [[IFTTT|   `I]]FTTT, Spotify`
+ [[Automation/IFTTT/IFTTT|   `I]]FTTT, Spotify`
     
 -   ![](https://assets.ifttt.com/images/channels/1829789558/icons/monochrome_regular.png)
     

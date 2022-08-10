@@ -2,73 +2,67 @@
   "aestheticStyle": "glass",
   "menuCommands": [
     {
-      "id": "obsidian-regex-replace:obsidian-regex-replace",
-      "name": "Regex Find/Replace: Find and Replace using regular expressions",
-      "icon": "left-arrow-with-tail"
+      "id": "obsidian-tweaks:toggle-heading-1",
+      "name": "ObsidianTweaks: Toggle Heading - H1",
+      "icon": "heading-glyph"
     },
     {
-      "id": "note-refactor-obsidian:app:split-note-by-heading-h1",
-      "name": "Note Refactor: Split note by headings - H1",
-      "icon": "box-glyph"
+      "id": "obsidian-tweaks:toggle-heading-2",
+      "name": "ObsidianTweaks: Toggle Heading - H2",
+      "icon": "heading-glyph"
     },
     {
-      "id": "obsidian-linter:lint-file",
-      "name": "Linter: Lint the current file",
+      "id": "obsidian-tweaks:toggle-heading-3",
+      "name": "ObsidianTweaks: Toggle Heading - H3",
+      "icon": "heading-glyph"
+    },
+    {
+      "id": "obsidian-tweaks:toggle-heading-4",
+      "name": "ObsidianTweaks: Toggle Heading - H4",
+      "icon": "heading-glyph"
+    },
+    {
+      "id": "obsidian-tweaks:toggle-heading-5",
+      "name": "ObsidianTweaks: Toggle Heading - H5",
+      "icon": "heading-glyph"
+    },
+    {
+      "id": "editor:toggle-bold",
+      "name": "Toggle bold",
+      "icon": "bold-glyph",
       "hotkeys": [
         {
           "modifiers": [
-            "Mod",
-            "Alt"
+            "Mod"
           ],
-          "key": "l"
+          "key": "B"
         }
-      ],
-      "icon": "lines-of-text"
+      ]
     },
     {
-      "id": "cmenu-plugin:editor:toggle-bold",
-      "name": "cMenu: Toggle bold",
-      "icon": "bold-glyph"
+      "id": "cmenu-plugin:editor:toggle-bullet-list",
+      "name": "cMenu: Toggle bullet",
+      "icon": "bullet-list-glyph"
     },
     {
-      "id": "cmenu-plugin:editor:toggle-code",
-      "name": "cMenu: Toggle code",
-      "icon": "code-glyph"
+      "id": "obsidian-sort-and-permute-lines:sort-list-alphabetically",
+      "name": "Sort & Permute lines: Sort current list alphabetically",
+      "icon": "enlarge-glyph"
     },
     {
-      "id": "cmenu-plugin:codeblock",
-      "name": "cMenu: Toggle codeblock",
-      "icon": "codeblock-glyph"
+      "id": "cmenu-plugin:editor:toggle-italics",
+      "name": "cMenu: Toggle italics",
+      "icon": "italic-glyph"
     },
     {
-      "id": "cmenu-plugin:editor:toggle-blockquote",
-      "name": "cMenu: Toggle blockquote",
-      "icon": "quote-glyph"
-    },
-    {
-      "id": "editor:insert-wikilink",
-      "name": "Add internal link",
-      "icon": "bracket-glyph"
-    },
-    {
-      "id": "note-refactor-obsidian:app:split-note-by-heading-h3",
-      "name": "Note Refactor: Split note by headings - H3",
-      "icon": "bracket-glyph"
-    },
-    {
-      "id": "note-refactor-obsidian:app:split-note-by-heading-h2",
-      "name": "Note Refactor: Split note by headings - H2",
-      "icon": "bullet-list"
-    },
-    {
-      "id": "note-refactor-obsidian:app:split-note-by-heading-h1",
-      "name": "Note Refactor: Split note by headings - H1",
-      "icon": "heading-glyph"
+      "id": "cmenu-plugin:editor:toggle-highlight",
+      "name": "cMenu: Toggle highlight",
+      "icon": "highlight-glyph"
     }
   ],
   "appendMethod": "workspace",
   "shouldShowMenuOnSelect": false,
-  "cMenuVisibility": false,
+  "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
-  "cMenuNumRows": 8
+  "cMenuNumRows": 5
 }

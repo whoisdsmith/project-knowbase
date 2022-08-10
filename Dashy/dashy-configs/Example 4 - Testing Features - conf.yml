@@ -1,0 +1,46 @@
+---
+pageInfo:
+  title: Dashy
+  description: My Awesome Dashboard
+  navLinks:
+  - title: Home
+    path: /
+  - title: Example 1
+    path: https://example.com
+  - title: Example 2
+    path: https://example.com
+appConfig:
+  enableFontAwesome: true
+  fontAwesomeKey: e9076c7025
+  theme: thebe
+  cssThemes: ['example-theme-1', 'example-theme-2']
+sections:
+- name: Getting Started
+  displayData:
+    cols: 2
+    collapsed: true
+    itemSize: large
+    customStyles: 'border: 2px dashed red;'
+  items:
+  - title: Source
+    description: Source code and documentation on GitHub
+    icon: fab fa-github
+    url: https://github.com/Lissy93/dashy
+    target: sametab
+    color: '#00ffc9'
+    backgroundColor: '#0079ff'
+  - title: Issues
+    description: View currently open issues, or raise a new one
+    icon: fas fa-bug
+    url: https://github.com/Lissy93/dashy/issues
+  - title: Demo 1
+    description: 'Live Demo #1'
+    icon: fas fa-rocket
+    url: https://dashy-demo-1.as93.net
+    target: iframe
+  - title: Demo 2
+    description: 'Live Demo #2'
+    icon: favicon
+    url: https://dashy-demo-2.as93.net
+    target: newtab
+  

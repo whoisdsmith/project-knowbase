@@ -3,7 +3,7 @@
 ![[Automation-Banner.png]]
 
 
-## [[IFTTT]]
+## [[Automation/IFTTT/IFTTT]]
 
 ![[IFTTT-Banner.png]]
 
@@ -19,7 +19,7 @@
 
 ![[shortcuts-banner.jpeg]]
 
-## [[Webhooks]]
+## [[Automation/Webhooks/Webhooks]]
 
 ![[Webhooks-banner.png]]
 

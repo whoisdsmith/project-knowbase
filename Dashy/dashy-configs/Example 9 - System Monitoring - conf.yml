@@ -1,0 +1,86 @@
+---
+# Page meta info, like heading, footer text and nav links
+pageInfo:
+  title: System Panel
+  description: Resource Usage Monitoring
+
+# Optional app settings and configuration
+appConfig:
+  theme: colorful
+
+# Main content - An array of sections, each containing an array of items
+sections:
+- name: CPU Usage
+  icon: fas fa-tachometer
+  displayData:
+    rows: 2
+  widgets:
+  - type: gl-current-cpu
+    options:
+      hostname: http://192.168.130.2:61208
+  - type: gl-current-cores
+    options:
+      hostname: http://192.168.130.2:61208
+
+- name: CPU History
+  icon: fas fa-microchip
+  displayData:
+    cols: 2
+  widgets:
+  - type: gl-cpu-history
+    options:
+      hostname: http://192.168.130.2:61208
+      limit: 60
+
+- name: Disk Space
+  icon: fas fa-hdd
+  widgets:
+  - type: gl-disk-space
+    options:
+      hostname: http://192.168.130.2:61208
+
+- name: Network Interfaces
+  icon: fas fa-ethernet
+  widgets:
+  - type: gl-network-interfaces
+    options:
+      hostname: http://192.168.130.2:61208
+      limit: 500
+      
+- name: Network Activity
+  icon: fas fa-exchange
+  displayData:
+    cols: 2
+  widgets:
+  - type: gl-network-activity
+    options:
+      hostname: http://192.168.130.2:61208
+      limit: 500
+      
+- name: Disk IO
+  icon: fas fa-disc-drive
+  widgets:
+  - type: gl-disk-io
+    options:
+      hostname: http://192.168.130.2:61208
+       
+- name: Memory Usage
+  icon: fas fa-memory
+  widgets:
+  - type: gl-current-mem
+    options:
+      hostname: http://192.168.130.2:61208
+      
+- name: System Load
+  icon: fas fa-tasks-alt
+  widgets:
+  - type: gl-system-load
+    options:
+      hostname: http://192.168.130.2:61208
+
+- name: System Alerts
+  icon: fas fa-sensor-alert
+  widgets:
+  - type: gl-alerts
+    options:
+      hostname: http://192.168.130.2:61208

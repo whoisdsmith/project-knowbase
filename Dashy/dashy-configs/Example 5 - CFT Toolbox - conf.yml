@@ -1,0 +1,200 @@
+---
+pageInfo:
+  title: CFT Toolbox
+  navLinks:
+  - title: Home
+    path: /
+  - title: HackTheBox
+    path: https://www.hackthebox.eu/
+  - title: TryHackMe
+    path: https://tryhackme.com/
+appConfig:
+  theme: matrix
+  fontAwesomeKey: c94dc2b452
+  enableFontAwesome: true
+sections:
+- name: Web
+  icon: far fa-wifi
+  displayData:
+    rows: 2
+  items:
+  - title: BurpSuite
+    description: A graphical tool to testing website security
+    icon: #
+    url: https://portswigger.net/burp
+  - title: Commix
+    description: Automated All-in-One OS Command Injection and Exploitation Tool
+    icon: #
+    url: https://github.com/commixproject/commix
+  - title: Hackbar
+    description: Firefox addon for easy web exploitation
+    icon: #
+    url: https://addons.mozilla.org/en-US/firefox/addon/hackbartool/
+  - title: OWASP ZAP
+    description: Intercepting proxy to replay, debug, and fuzz HTTP requests and responses
+    icon: #
+    url: https://www.owasp.org/index.php/Projects/OWASP_Zed_Attack_Proxy_Project
+  - title: Postman
+    description: Testing and sending web requests
+    icon: #
+    url: https://www.postman.com/
+  - title: Raccoon
+    description: Reconnaissance and vulnerability scanning
+    icon: #
+    url: https://github.com/evyatarmeged/Raccoon
+  - title: SQLMap
+    description: Automatic SQL injection and database takeover tool
+    icon: #
+    url: https://github.com/sqlmapproject/sqlmap
+  - title: W3af
+    description: Web Application Attack and Audit Framework
+    icon: #
+    url: https://github.com/andresriancho/w3af
+  - title: Xsser
+    description: Automated XSS tester
+    icon: #
+    url: http://xsser.sourceforge.net/
+- name: Bruteforce
+  icon: far fa-user-visor
+  items:
+  - title: HashCat
+    description: Password cracker
+    icon: #
+    url: https://hashcat.net/hashcat/
+  - title: Hydra
+    description: parallelized login cracker which supports numerous protocols to attack
+    icon: #
+    url: https://tools.kali.org/password-attacks/hydra
+  - title: John The Jumbo
+    description: Community enhanced version of John the Ripper password cracker
+    icon: #
+    url: https://github.com/magnumripper/JohnTheRipper
+  - title: Nozzlr
+    description: Script-friendly, modular bruteforce framework
+    icon: #
+    url: https://github.com/intrd/nozzlr
+- name: Forensics
+  icon: far fa-microscope
+  items:
+  - title: Dnscat2
+    description: Hosts communication through DNS
+    icon: #
+    url: https://github.com/iagox86/dnscat2
+  - title: Registry Dumper
+    description: Examine registry of devices
+    icon: #
+    url: http://www.kahusecurity.com/posts/registry_dumper_find_and_dump_hidden_registry_keys.html
+  - title: Magnet AXIOM
+    description: Artifact-centric DFIR tool
+    icon: #
+    url: https://www.magnetforensics.com/downloadaxiom
+- name: Attack Frameworks
+  icon: far fa-axe-battle
+  items:
+  - title: Yersinia
+    description: Framework for layer 2 attacks
+    icon: #
+    url: https://github.com/tomac/yersinia
+  - title: Bettercap
+    description: Framework to perform MITM attacks
+    icon: #
+    url: https://github.com/bettercap/bettercap
+- name: Crypto Tools
+  icon: far fa-brackets-curly
+  displayData:
+    rows: 2
+  items:
+  - title: CyberChef
+    description: Suite of crypto tools
+    icon: #
+    url: https://gchq.github.io/CyberChef
+  - title: FeatherDuster
+    description: An automated, modular cryptanalysis tool
+    icon: #
+    url: https://github.com/nccgroup/featherduster
+  - title: Hash Extender
+    description: A utility tool for performing hash length extension attacks
+    icon: #
+    url: https://github.com/iagox86/hash_extender
+  - title: Padding Oracle Attacker
+    description: A CLI tool to execute padding oracle attacks
+    icon: #
+    url: https://github.com/KishanBagaria/padding-oracle-attacker
+  - title: PkCrack
+    description: A tool for Breaking PkZip-encryption
+    icon: #
+    url: https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html
+  - title: QuipQuip
+    description: Breaking substitution ciphers or vigenere ciphers (without key)
+    icon: #
+    url: https://quipqiup.com/
+  - title: RSACTFTool
+    description: A tool for recovering RSA private key with various attack
+    icon: #
+    url: https://github.com/Ganapati/RsaCtfTool
+- name: Networking
+  icon: far fa-network-wired
+  items:  
+  - title: Masscan
+    description: Mass IP port scanner, TCP port scanner
+    icon: #
+    url: https://github.com/robertdavidgraham/masscan
+  - title: Wireshark
+    description: Analyze network dumps
+    icon: #
+    url: https://www.wireshark.org/
+  - title: Zmap
+    description: Network scanner
+    icon: #
+    url: https://zmap.io/
+  - title: Monit
+    description: Check a host on the network
+    icon: #
+    url: https://linoxide.com/monitoring-2/monit-linux/
+  - title: Nipe
+    description: Make the Tor network your default gateway
+    icon: #
+    url: https://github.com/GouveaHeitor/nipe
+  - title: Zeek
+    description: Open source network scanner
+    icon: #
+    url: https://www.zeek.org/
+- name: Steganography
+  icon: far fa-file-image
+  items:  
+  - title: AperiSolve
+    description: Layer analysis on images
+    icon: #
+    url: https://aperisolve.fr/
+  - title: ExifTool
+    description: Read/ write metadata
+    icon: #
+    url: https://linux.die.net/man/1/exiftool
+  - title: Image Steg
+    description: Easily embed data into images, with optional encryption
+    icon: #
+    url: https://sourceforge.net/projects/image-steg/
+  - title: Outguess
+    description:
+    icon: #
+    url: https://www.freebsd.org/cgi/man.cgi?query=outguess
+  - title: SteganographyOnline
+    description: Online steganography encoder and decoder
+    icon: #
+    url: https://stylesuxx.github.io/steganography/
+  - title: Stegbreak
+    description: Launches brute-force dictionary attacks on JPG image
+    icon: #
+    url: https://linux.die.net/man/1/stegbreak
+- name: Misc
+  icon: far fa-icons-alt
+  items:  
+  - title: Request Bin
+    description: nspect http requests to a particular url
+    icon: #
+    url: https://requestbin.com/
+  - title: CSWSH
+    description: Cross-Site WebSocket Hijacking Tester
+    icon: #
+    url: http://cow.cat/cswsh.html
+  
